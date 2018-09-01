@@ -34,7 +34,7 @@ else
   fi
 fi
 
-echo "Bootstrapping DNS from https://github.com/uklans/cache-domains"
+echo "Bootstrapping DNS from https://github.com/antoinelochet/cache-domains"
 
 if ! [ -z "${USE_GENERIC_CACHE}" ]; then
     echo ""
